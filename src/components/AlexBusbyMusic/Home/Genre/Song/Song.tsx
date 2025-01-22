@@ -12,11 +12,11 @@ const Song: React.FC<SongProps> = (props: SongProps) => {
       bordered
       style={{ width: 400 }}
       cover={
-          <Image
-            className={styles.artworkImage}
-            alt={`${props.name} artwork`}
-            src={props.artwork}
-          />
+        <Image
+          className={styles.artworkImage}
+          alt={`${props.name} artwork`}
+          src={props.artwork}
+        />
       }
       actions={[
         ...(props.spotifyIFrame != null
