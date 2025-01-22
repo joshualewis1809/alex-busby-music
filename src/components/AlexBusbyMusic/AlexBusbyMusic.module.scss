@@ -1,0 +1,26 @@
+.alexBusbyMusic {
+    height: 100%;
+
+    .header {
+        background-color: #1e1e1e;
+        text-align: center;
+        border-bottom: 1px solid white;
+        align-items: center;
+
+        img {
+            height: 100%;
+        }
+    }
+
+    .content {
+        height: 100%;
+        background-color: #282828;
+        padding: 20px;
+        overflow-y: auto;
+    }
+
+    .footer {
+        background-color: #1e1e1e;
+        text-align: center;
+    }
+}

@@ -5,10 +5,6 @@ import FloatingPlayerProps from "./interfaces/FloatingPlayerProps";
 const FloatingPlayer: React.FC<FloatingPlayerProps> = (
   props: FloatingPlayerProps
 ) => {
-  //   useEffect(() => {
-  //     return () => {};
-  //   }, [props.children]);
-
   return (
     props.children !== null && (
       <Layout

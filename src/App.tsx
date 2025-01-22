@@ -10,7 +10,7 @@ const App: React.FC = () => {
       <ConfigProvider
         theme={{
           token: {
-            colorPrimary: "#ff4d00",
+            // colorPrimary: "#ff4d00",
           },
           algorithm: [
             theme.darkAlgorithm
