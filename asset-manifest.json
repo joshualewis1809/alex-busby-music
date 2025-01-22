@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alex-busby-music/static/css/main.f58d082a.css",
+    "main.js": "/alex-busby-music/static/js/main.a95c0413.js",
+    "index.html": "/alex-busby-music/index.html",
+    "main.f58d082a.css.map": "/alex-busby-music/static/css/main.f58d082a.css.map",
+    "main.a95c0413.js.map": "/alex-busby-music/static/js/main.a95c0413.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f58d082a.css",
+    "static/js/main.a95c0413.js"
+  ]
+}
