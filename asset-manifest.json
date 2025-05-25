@@ -1,13 +1,26 @@
 {
   "files": {
-    "main.css": "/alex-busby-music/static/css/main.f58d082a.css",
-    "main.js": "/alex-busby-music/static/js/main.a95c0413.js",
+    "main.css": "/alex-busby-music/static/css/main.3d1929c1.css",
+    "main.js": "/alex-busby-music/static/js/main.73be338e.js",
+    "static/media/lordbound-cities.wav": "/alex-busby-music/static/media/lordbound-cities.0ee17aef953b2fbb7a4b.wav",
+    "static/media/xander-theme-1.wav": "/alex-busby-music/static/media/xander-theme-1.d32fb478ed00b7679a4e.wav",
+    "static/media/lordbound-exploration-\u0000#1.wav": "/alex-busby-music/static/media/lordbound-exploration-#1.203481a20e14ca9051ef.wav",
+    "static/media/lordbound-exploration-\u0000#2.wav": "/alex-busby-music/static/media/lordbound-exploration-#2.5301db2a05c4bc195fdc.wav",
+    "static/media/elder-legacy-theme.wav": "/alex-busby-music/static/media/elder-legacy-theme.f57fe407877689b2d5b4.wav",
+    "static/media/moving-past.wav": "/alex-busby-music/static/media/moving-past.8a2e6935dd361c44ba3e.wav",
+    "static/media/moving-past.png": "/alex-busby-music/static/media/moving-past.963be8676ab7185ee4ae.png",
+    "static/media/elder-legacy.jpg": "/alex-busby-music/static/media/elder-legacy.a759363eab08e7c7a2a8.jpg",
+    "static/media/moonlit-sakura.jpg": "/alex-busby-music/static/media/moonlit-sakura.353d0e3a85c15ac296ac.jpg",
+    "static/media/lordbound.jpg": "/alex-busby-music/static/media/lordbound.76e15c80163fc43e1edc.jpg",
+    "static/media/xander-budnick.jpg": "/alex-busby-music/static/media/xander-budnick.0a68cfc47cb0e888fd5b.jpg",
+    "static/media/over-seas.jpg": "/alex-busby-music/static/media/over-seas.e467503b4db5c8dd12c9.jpg",
+    "static/media/excentra-pro-light.otf": "/alex-busby-music/static/media/excentra-pro-light.11f9787cf57b8ba42163.otf",
     "index.html": "/alex-busby-music/index.html",
-    "main.f58d082a.css.map": "/alex-busby-music/static/css/main.f58d082a.css.map",
-    "main.a95c0413.js.map": "/alex-busby-music/static/js/main.a95c0413.js.map"
+    "main.3d1929c1.css.map": "/alex-busby-music/static/css/main.3d1929c1.css.map",
+    "main.73be338e.js.map": "/alex-busby-music/static/js/main.73be338e.js.map"
   },
   "entrypoints": [
-    "static/css/main.f58d082a.css",
-    "static/js/main.a95c0413.js"
+    "static/css/main.3d1929c1.css",
+    "static/js/main.73be338e.js"
   ]
 }
