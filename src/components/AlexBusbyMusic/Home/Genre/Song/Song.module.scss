@@ -1,44 +1,15 @@
 .song {
+    text-align: center;
+    max-width: 375px;
+    height: fit-content;
 
-    .artworkWrapper {
-        height: 200px;
-
-        &:hover {
-            .songDescription {
-                visibility: visible;
-                opacity: 1;
-            }
-        }
-
-        .artworkImage {
-            height: 200px;
-        }
-
-        .songDescription {
-            position: absolute;
-            top:0;
-            right:0;
-            bottom:0;
-            left:0;
-            height: 200px;
-            text-align: center;
-            background: rgba(11, 19, 24, 0.72);
-            color: #fff;
-            visibility: hidden;
-            opacity: 0;
-            transition: opacity .2s, visibility .2s;
-        }
+    .artworkImage {
+        width: 100%;
     }
 
-    .spotify {
-        >svg {
-            color: green;
-        }
-    }
-
-    .soundCloud {
-        >svg {
-            color: orange;
-        }
+    .audioPlayer {
+        filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%) invert(12%);
+        height: 25px;
+        margin-top: 24px;
     }
 }

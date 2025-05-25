@@ -6,10 +6,10 @@ import { Flex } from "antd";
 
 const Genre: React.FC<GenreProps> = (props: GenreProps) => {
   return (
-      <Flex vertical gap={30}>
-        <Title level={2} style={{ margin: 0 }}>
+      <Flex vertical gap={20}>
+        <h2 style={{ margin: 0 }}>
           {props.name}
-        </Title>
+        </h2>
         <Flex vertical={false} gap={25} wrap >
           {props.children}
         </Flex>

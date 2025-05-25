@@ -1,10 +1,10 @@
-import { IframeHTMLAttributes, ReactElement } from "react";
+import { IframeHTMLAttributes, ReactElement, ReactNode } from "react";
 
 export default interface SongProps {
-    name: string; 
-    year: number;
-    artwork: string;
-    setFloatingPlayerIFrame: Function;
-    soundCloudIFrame?: ReactElement | null; 
-    spotifyIFrame?: ReactElement | null; 
+  name: string;
+  year: number;
+  artworkFileName: string;
+  externalLink?: string;
+  localFileName?: any;
+  description?: string;
 }

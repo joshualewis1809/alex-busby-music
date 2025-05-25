@@ -2,7 +2,7 @@
   "name": "alex-busby-music",
   "version": "0.1.0",
   "private": true,
-  "packageManager": "yarn@4.5.1",
+  "packageManager": "yarn@4.8.1",
   "homepage": "https://joshualewis1809.github.io/alex-busby-music",
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
